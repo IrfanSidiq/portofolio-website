@@ -630,9 +630,10 @@ html {
 .easter-egg span {
     display: none;
     position: absolute;
-    left: 44%;
+    left: 50%;
+    transform: translate(-50%, -70%);
     padding: 0.2rem 0.5rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     background-color: var(--body-color-light);
     border-radius: 10px;
 }
