@@ -3,56 +3,56 @@
     font-family: 'Calibre';
     font-weight: 400;
     font-style: normal;
-    src: url('assets/fonts/calibreregular-webfont.woff2') format('woff2'),
-         url('assets/fonts/calibreregular-webfont.woff') format('woff');
+    src: url('../fonts/calibreregular-webfont.woff2') format('woff2'),
+         url('../fonts/calibreregular-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Calibre';
     font-weight: 500;
     font-style: normal;
-    src: url('assets/fonts/calibremedium-webfont.woff2') format('woff2'),
-         url('assets/fonts/calibremedium-webfont.woff') format('woff');
+    src: url('../fonts/calibremedium-webfont.woff2') format('woff2'),
+         url('../fonts/calibremedium-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Calibre';
     font-weight: 600;
     font-style: normal;
-    src: url('assets/fonts/calibresemibold-webfont.woff2') format('woff2'),
-         url('assets/fonts/calibresemibold-webfont.woff') format('woff');
+    src: url('../fonts/calibresemibold-webfont.woff2') format('woff2'),
+         url('../fonts/calibresemibold-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SF Mono';
     font-weight: 400;
     font-style: normal;
-    src: url('assets/fonts/sfmonoregular-webfont.woff2') format('woff2'),
-         url('assets/fonts/sfmonoregular-webfont.woff') format('woff');
+    src: url('../fonts/sfmonoregular-webfont.woff2') format('woff2'),
+         url('../fonts/sfmonoregular-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SF Mono';
     font-weight: 500;
     font-style: normal;
-    src: url('assets/fonts/sfmonomedium-webfont.woff2') format('woff2'),
-         url('assets/fonts/sfmonomedium-webfont.woff') format('woff');
+    src: url('../fonts/sfmonomedium-webfont.woff2') format('woff2'),
+         url('../fonts/sfmonomedium-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SF Mono';
     font-weight: 600;
     font-style: normal;
-    src: url('assets/fonts/sfmonosemibold-webfont.woff2') format('woff2'),
-         url('assets/fonts/sfmonosemibold-webfont.woff') format('woff');
+    src: url('../fonts/sfmonosemibold-webfont.woff2') format('woff2'),
+         url('../fonts/sfmonosemibold-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SF Mono';
     font-weight: 700;
     font-style: normal;
-    src: url('assets/fonts/sfmonobold-webfont.woff2') format('woff2'),
-         url('assets/fonts/sfmonobold-webfont.woff') format('woff');
+    src: url('../fonts/sfmonobold-webfont.woff2') format('woff2'),
+         url('../fonts/sfmonobold-webfont.woff') format('woff');
 }
 
 
